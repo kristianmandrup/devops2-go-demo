@@ -1,0 +1,1 @@
+ID=$(docker ps -q --filter label=com.docker.swarm.service.name=util)

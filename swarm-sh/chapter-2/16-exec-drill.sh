@@ -1,0 +1,1 @@
+docker exec -it $ID drill go-demo-db
